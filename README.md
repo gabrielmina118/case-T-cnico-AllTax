@@ -1,7 +1,7 @@
 # case-T-cnico-AllTax
-# Para rodar o projeto
+# Para rodar o projeto:
 
-## clone o repositório
+## - clone o repositório
 
-## entra na pasta implementacao
-## rode o comando no terminarl `npm install` e em seguida `npm run start`
+## - entre na pasta chamada implementacao
+## - rode o comando no terminarl `npm install` e em seguida `npm run start`
